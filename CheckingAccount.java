@@ -13,9 +13,9 @@
 //   // parameter constracter to intialize chechingaccount
 //   //with custem account number and custem trans action fee
   
-   public CheckingAccount(int accountNumber, double fee){
+   public CheckingAccount(int accountNumber){
      super(accountNumber);
-     Fee = fee;
+    // Fee = fee;
      
    }
   
